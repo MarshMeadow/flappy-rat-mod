@@ -15,7 +15,7 @@ http://wiki.nyrds.net/doku.php
 
 If you like this game, please consider [supporting me on Patreon]()!
 
-There is an official blog for this project at [Note Avalible At This Time]().
+There is an official blog for this project at [error]().
 
 Note that **this repository does not accept pull requests!** The code here is provided in hopes that others may find it useful for their own projects, not to allow community contribution. Issue reports of all kinds (bug reports, feature requests, etc.) are welcome.
 
