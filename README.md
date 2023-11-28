@@ -1,6 +1,6 @@
 # Flappy Rat APK Mod
 
-[More Info In Releases](https://github.com/MarshMeadow/flappy-rat-mod/releases)
+[**More Info In Releases**](https://github.com/MarshMeadow/flappy-rat-mod/releases)
 
 [Flappy Rat]([https://shatteredpixel.com/shatteredpd/](https://play.google.com/store/apps/details?id=com.nyrds.jumpyrat)): Gooogle Play: "This game is about cute jumping rat. It is more of a practice to make games with Love2D, then anything else. The Love2D is an amazingly simple and really handy game engine. If you want to find out more about this awesome tool please visit their official site: https://love2d.org/ (it's free to use ;) )"
 
