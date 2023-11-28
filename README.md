@@ -25,3 +25,4 @@ If you'd like to work with the code, you can find the following guides in `/docs
 - [Recommended changes for making your own version.]()
 
 # **Note that:**
+This is a modded version of an apk. from the play store. and this could be taken dow.n and that's ok. thanks for downloading. if this dose go down..
