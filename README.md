@@ -23,3 +23,5 @@ If you'd like to work with the code, you can find the following guides in `/docs
 - [Compiling for Android.]()
     - **[If you plan to distribute on Google Play please read the end of this guide.]()**
 - [Recommended changes for making your own version.]()
+
+# **Note that:**
