@@ -10,7 +10,7 @@ https://twitter.com/nyrds
 Or visit our wiki:
 http://wiki.nyrds.net/doku.php
 
-[![Get it on Google Play](https://play.google.com/store/apps/details?id=com.nyrds.jumpyrat)
+[![Get it on Google Play](https://camo.githubusercontent.com/ef03c4f5baa39b9194a4f715aa85e0b917d77dcff51e27206ca3681b1d43894c/68747470733a2f2f736861747465726564706978656c2e636f6d2f6173736574732f696d616765732f6261646765732f67706c61792e706e67)](https://play.google.com/store/apps/details?id=com.nyrds.jumpyrat)
 [![Download on the App Store](https://shatteredpixel.com/assets/images/badges/appstore.png)](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109)
 [![Steam](https://shatteredpixel.com/assets/images/badges/steam.png)](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)<br>
 [![GOG.com](https://shatteredpixel.com/assets/images/badges/gog.png)](https://www.gog.com/game/shattered_pixel_dungeon)
